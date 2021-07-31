@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaoyer.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-31T06:57:46.125Z</updated>
+    <updated>2021-07-31T07:03:47.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaoyer.github.io"/>
     <link rel="self" href="https://yaoyer.github.io/atom.xml"/>
@@ -11,12 +11,17 @@
     <icon>https://yaoyer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
+        <title type="html"><![CDATA[2021-7-30 假期预告]]></title>
         <id>https://yaoyer.github.io/post/test/</id>
         <link href="https://yaoyer.github.io/post/test/">
         </link>
         <updated>2021-07-30T13:27:38.000Z</updated>
-        <content type="html"><![CDATA[<p>test23</p>
+        <content type="html"><![CDATA[<p>严格意义上，今天并不算是假期的开始，然而正如电影的预告片对于票房的作用一样，我想通过这个预告给我即将到来的一年假期做一点提前宣传。<br>
+尽管期待了很久，但实际上对于这个假期，我可能依然是恐惧和迷茫大于兴奋，我一直都知道，故事并不是像电影一样，啪的一声，就开始了，这个世界上应该没有这种事情的，正如这个假期的开端，我依然要定期去公司报道，依然要考虑，“电影”散场后要做的事情，我依然不知道这个没有剧本的假期到底是个什么题材的故事。<br>
+但这不妨碍我，按照我自己的计划，一步步的敲下那个啪声，我只希望我能记得我的代价和渴望不被时间和懈怠消磨。<br>
+那么，先从记录开始吧，先从读盘开始吧，先从现在开始吧。<br>
+我先要做下的是准备好工具，更新我的笔记本，调整我的身体，安装那些我可能需要的软件，然后敲下第一行字。<br>
+假期，开始了。</p>
 ]]></content>
     </entry>
     <entry>
